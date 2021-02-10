@@ -13,7 +13,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.x || 12.x"
   },
   "dependencies": {
     "@babel/core": "^7.0.0-0",
