@@ -1,0 +1,18 @@
+{
+	"REGION III ELECTIONS OFFICE FAIRBANKS_NORTH STAR AK 99701": {
+		"location_name": "REGION III ELECTIONS OFFICE",
+		"original_address": "REGION III ELECTIONS OFFICE FAIRBANKS_NORTH STAR, AK Alaska",
+		"location_type": "ROOFTOP",
+		"formatted_address": "State Of Alaska Fairbanks Regional Office Building, 675 7th Ave A2, Fairbanks, AK 99701, USA",
+		"lat": 64.84038,
+		"lng": -147.7240531
+	},
+	"UAF WOOD CENTER FAIRBANKS_NORTH STAR AK 99709": {
+		"location_name": "UAF WOOD CENTER",
+		"original_address": "UAF WOOD CENTER FAIRBANKS_NORTH STAR, AK 99709",
+		"location_type": "RANGE_INTERPOLATED",
+		"formatted_address": "811 Yukon Dr, Fairbanks, AK 99709, USA",
+		"lat": 64.8580113,
+		"lng": -147.8285477
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"REGION I ELECTIONS OFFICE JUNEAU AK 99801": {
+		"location_name": "REGION I ELECTIONS OFFICE",
+		"original_address": "REGION I ELECTIONS OFFICE JUNEAU, AK Alaska",
+		"location_type": "ROOFTOP",
+		"formatted_address": "9105 Mendenhall Mall Rd # 369, Juneau, AK 99801, USA",
+		"lat": 58.3714166,
+		"lng": -134.5896793
+	},
+	"STATE OFFICE BUILDING JUNEAU AK 99801": {
+		"location_name": "STATE OFFICE BUILDING",
+		"original_address": "STATE OFFICE BUILDING JUNEAU, AK Alaska",
+		"location_type": "ROOFTOP",
+		"formatted_address": "333 Willoughby Ave # 10, Juneau, AK 99801, USA",
+		"lat": 58.30103919999999,
+		"lng": -134.4120812
+	}
+}
