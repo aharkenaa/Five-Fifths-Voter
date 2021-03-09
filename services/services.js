@@ -19,8 +19,8 @@ const about = {
     'ballotreturn/states/',
     'ballotreturn/regions/',
     'ballotreturn/locations/',
-    'twitter/chatter',
-  ],
+    'twitter/chatter'
+  ]
 };
 
 const states = require('./data/earlyVoting/states');
@@ -95,7 +95,7 @@ app.get('/ballotreturn/locations/', (req, res) => {
   // console.log('Returning locations', req.query);
   let stateid = req.query.stateid;
   let locid = req.query.locid.toUpperCase();
-  const foundLocation = locations2.list.find((loc) => loc.place === locid);
+  const foundLocation = locations2.list.find(loc => loc.place === locid);
   if (foundLocation) {
     res.send(foundLocation);
   }
@@ -143,11 +143,11 @@ app.get('/twitter/chatter/', (req, res) => {
 
     const chunks = [];
 
-    chatter.stdout.on('data', function (chunk) {
+    chatter.stdout.on('data', function(chunk) {
       chunks.push(chunk);
     });
 
-    chatter.on('close', (code) => {
+    chatter.on('close', code => {
       console.log(`child process exited with code ${code}`);
       try {
         if (code !== 0) {

@@ -1,0 +1,18 @@
+{
+	"MAT-SU BOROUGH BUILDING MATANUSKA-SUSITNA AK 99645": {
+		"location_name": "MAT-SU BOROUGH BUILDING",
+		"original_address": "MAT-SU BOROUGH BUILDING MATANUSKA-SUSITNA, AK 99645",
+		"location_type": "ROOFTOP",
+		"formatted_address": "350 E Dahlia Ave, Palmer, AK 99645, USA",
+		"lat": 61.59971019999999,
+		"lng": -149.1083272
+	},
+	"WASILLA PUBLIC LIBRARY MATANUSKA-SUSITNA AK 99654": {
+		"location_name": "WASILLA PUBLIC LIBRARY",
+		"original_address": "WASILLA PUBLIC LIBRARY MATANUSKA-SUSITNA, AK 99654",
+		"location_type": "ROOFTOP",
+		"formatted_address": "500 N Crusey St, Wasilla, AK 99654, USA",
+		"lat": 61.5842695,
+		"lng": -149.4303235
+	}
+}

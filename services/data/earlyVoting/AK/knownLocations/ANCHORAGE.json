@@ -1,0 +1,26 @@
+{
+	"MIDTOWN MALL (MALL AT SEARS) ANCHORAGE AK 99503": {
+		"location_name": "MIDTOWN MALL (MALL AT SEARS)",
+		"original_address": "MIDTOWN MALL (MALL AT SEARS) ANCHORAGE, AK United States",
+		"location_type": "ROOFTOP",
+		"formatted_address": "600 E Northern Lights Blvd, Anchorage, AK 99503, USA",
+		"lat": 61.19426009999999,
+		"lng": -149.8722758
+	},
+	"UAA STUDENT UNION ANCHORAGE AK 99508": {
+		"location_name": "UAA STUDENT UNION",
+		"original_address": "UAA STUDENT UNION ANCHORAGE, AK United States",
+		"location_type": "RANGE_INTERPOLATED",
+		"formatted_address": "2921 Spirit Dr, Anchorage, AK 99508, USA",
+		"lat": 61.1894351,
+		"lng": -149.8252208
+	},
+	"ANCHORAGE CITY HALL ANCHORAGE AK 99501": {
+		"location_name": "ANCHORAGE CITY HALL",
+		"original_address": "ANCHORAGE CITY HALL ANCHORAGE, AK United States",
+		"location_type": "ROOFTOP",
+		"formatted_address": "632 W 6th Ave, Anchorage, AK 99501, USA",
+		"lat": 61.21632990000001,
+		"lng": -149.8948221
+	}
+}
